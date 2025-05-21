@@ -1,2 +1,1 @@
 # chatbot
-Doc,File,PDF
